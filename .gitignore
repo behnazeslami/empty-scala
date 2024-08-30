@@ -9,4 +9,7 @@ target/
 .metals/
 .scala-build/
 .vscode/
-project/
+project/.bloop
+project/metals.sbt
+project/project
+project/build.properties
